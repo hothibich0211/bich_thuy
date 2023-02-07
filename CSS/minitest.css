@@ -1,0 +1,18 @@
+.hv1{
+    width: 20px;
+    height: 20px;
+    background: blue;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+.hv2{
+    width: 20px;
+    height: 20px;
+    background:red;
+    float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
+}

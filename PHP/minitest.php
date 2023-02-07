@@ -20,5 +20,9 @@
 			echo "<div style ='clear:both'></div>";
 		}	
 	?>
+
+</head>
+
+
 </body>
 </html>
